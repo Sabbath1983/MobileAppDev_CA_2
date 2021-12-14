@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kid</string>
+    <string name="button_addKid">Add Kid</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_age">Age </string>
+    <string name="menu_addKid">Add</string>
+    <string name="menu_cancelKid">Cancel</string>
+    <string name="enter_kid_name"> Please enter a name </string>
+    <string name="save_kid"> Save Kid </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_kid_image">Select kid image</string>
+    <string name="change_kid_image">Change kid image</string>
+</resources>
